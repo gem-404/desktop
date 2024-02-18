@@ -1,0 +1,3 @@
+Remind myself on how to format a disk on linux terminal
+
+The 16 Percent by Joel Moskowitz.
